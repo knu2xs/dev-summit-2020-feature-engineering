@@ -1,6 +1,6 @@
-# dev-summit-2020-feature-engineering
+# Dev-Summit-2020-Feature-Engineering
 
-Supporting documentation and examples for Feature Engineering presentation at teh 2020 Esri Developer Summit.
+Supporting documentation and examples for Feature Engineering presentation at the 2020 Esri Developer Summit.
 
 ## Project Organization
 ------------
